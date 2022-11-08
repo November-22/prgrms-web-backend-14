@@ -24,7 +24,7 @@
 * 초창기 자바는 운영체제와 직접 통신하지 않고 JVM을 통해 기계어로 번역하는 과정을 거쳐야 하는 까닭에 속도가 느린 것이 최대 단점으로 지적되었으나 JIT컴파일러와 Hotspot과 같은 신기술 도입으로 JVM의 기능이 향상되어 속도문제가 상당히 개선되었다.
 
 ### 클래스 로더 시스템
-[](https://velog.velcdn.com/images/miro7923/post/dd48d5c4-22d3-4668-b936-9ab0e5865706/image.png)
+<p align="center"><img src="https://velog.velcdn.com/images/miro7923/post/dd48d5c4-22d3-4668-b936-9ab0e5865706/image.png" width="400"></p>
 
 * `계층 구조` : 클래스 로더끼리 부모-자식 관계를 이뤄 계층 구조로 생성된다. 최상위 클래스 로더는 부트스트랩 클래스 로더(Bootstrap Class Loader)이다. 
 * `위임 모델` : 계층 구조를 바탕으로 클래스 로더끼리 로드를 위임하는 형태로 동작한다. 클래스를 로드할 때 상위 클래스를 먼저 확인해서 로드되어야 하는 클래스가 있다면 그대로 사용하고 그렇지 않으면 로드를 요청받은 클래스 로더에서 로드한다.
@@ -40,7 +40,7 @@
 # JVM(Java Virtual Machine)
 * 가상 컴퓨터(virtual machine)는 소프트웨어로 구현된 컴퓨터라고 생각하면 된다. 자바로 작성된 애플리케이션은 모두 JVM에서만 실행되기 때문에 자바 애플리케이션이 실행되기 위해서는 반드시 JVM이 설치되어 있어야 한다.
 
-[](https://velog.velcdn.com/images/miro7923/post/fdb48e06-5e99-4981-84c1-fe3f4e98a765/image.png)
+<p align="center"><img src="https://velog.velcdn.com/images/miro7923/post/fdb48e06-5e99-4981-84c1-fe3f4e98a765/image.png" width="500"></p>
 [이미지출처] https://www.edureka.co/blog/java-architecture/
 
 * 간략히 그림으로 요약해 보자면 이렇다. JVM에 대한 이해를 돕기 위한 그림은 정말 많지만 이해하기엔 심플한 것이 최고다. 
@@ -77,11 +77,11 @@
 * 바이트 코드를 인터프리팅`(명령어를 하나씩 읽어서 해석하고 실행)`하다 적절한 시점에 JIT 컴파일러로 바이트 코드 전체를 네이티브 코드로 바꾼다. 그리고 그 다음부터는 인터프리터가 네이티브 코드를 실행한다. 한 줄씩 인터프리팅하는 것 보다는 네이티브 코드를 실행하는 것이 훨씬 빠르기 때문에 이를 통해 실행 속도를 향상시킬 수 있다.
 * 하지만 JIT 컴파일러로 코드 전체를 컴파일하는 것은 시간이 오래 걸리는 일이다. 그렇기 때문에 한 번만 실행되고 마는 코드라면 인터프리팅하는 것이 속도면에서 훨씬 유리하다. 그래서 JIT 컴파일러를 사용하는 JVM은 각 메서드들의 수행 빈도를 파악한 후 빈도가 일정수를 넘을 때 컴파일을 시행한다.
 
-[](https://velog.velcdn.com/images/miro7923/post/19a4af32-b40c-4446-bdb9-1db3848571d9/image.png)
+<p align="center"><img src="https://velog.velcdn.com/images/miro7923/post/19a4af32-b40c-4446-bdb9-1db3848571d9/image.png" width="800"></p>
 - JIT 컴파일러는 바이트코드를 우선 중간 단계의 표현인 IR(Intermediate Representation : 소스 코드를 표현하기 위해 컴파일러 또는 가상 시스템에서 내부적으로 사용하는 데이터 구조 또는 코드로 최적화와 번역 등 추가처리를 위해 도움이 되도록 설계됨)로 변환하여 최적화를 수행하고 그 다음 네이티브 코드를 생성한다.
 
 ## JVM 구조
-[](https://velog.velcdn.com/images/miro7923/post/dc3ab153-4f9a-44e0-b2d8-9519ca7bd5ec/image.png)
+<p align="center"><img src="https://velog.velcdn.com/images/miro7923/post/dc3ab153-4f9a-44e0-b2d8-9519ca7bd5ec/image.png" width="800"></p>
 - 클래스 로더(Class Loader)가 컴파일된 자바 바이트 코드를 메모리영역에 로드하고, 실행 엔진(Execute Engine)이 컴파일된 바이트 코드를 실행한다.
 
 # Hotspot

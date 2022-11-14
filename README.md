@@ -1,4 +1,4 @@
-# prgms-web-backend-14
+# prgrms-web-backend-14
 
 > 프로그래머스 웹 백엔드 구현 스터디(14기) 종료 후 자율적으로 구성한 스터디 모임입니다.
 
@@ -27,11 +27,11 @@
 
 ## 📌 발표 주제
 
-### 1주차
+### 1주차 [스터디 기록](https://github.com/November-22/prgrms-web-backend-14/blob/main/Week01/study_log_01.md)
 
 | NO  |                주제                |                                                                                                                      발표자 & 발표자료                                                                                                                       |
 | :-: | :--------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  |        JPA를 사용하는 이유         |                                                                                     [전민규](https://phase-drip-eab.notion.site/1-JPA-33ce2b7438144d6d857466f5523077ad)                                                                                      |
+|  1  |        JPA를 사용하는 이유         |                                                                                     [전민규](https://phase-drip-eab.notion.site/1-JPA-33ce2b7438144d6d857466f5523077ad) / 최지혜                                                                                     |
 |  2  | JPA 영속성 컨텍스트, 연관관계 매핑 | [이시안](https://chicori3.github.io/%EA%B0%9C%EB%85%90/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0/) / [노영진](https://lateral-twilight-7e1.notion.site/JPA-f0cbc398baf94428b175fe1fe717934c) |
 |  3  |           JVM Structure            |                                        [강민주](https://velog.io/@mangoo/JVM-Structure-1) / [황시아](https://velog.io/@miro7923/JAVA-JVMJava-Virtual-Machine-%EC%9E%90%EB%B0%94%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0)                                         |
-|  4  |         Garbage Collection         |                                                                          [정지은](https://bejewled-sprout-4d3.notion.site/_-GC-Garbage-Collection-4c95974821dc46df9ef7eab425724ea9)                                                                          |
+|  4  |         Garbage Collection         |                                                                          [정지은](https://bejewled-sprout-4d3.notion.site/_-GC-Garbage-Collection-4c95974821dc46df9ef7eab425724ea9) / [김건](https://blog.naver.com/harrison1995/222925123116)                                                                         |

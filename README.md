@@ -59,3 +59,14 @@
 |  2  |     제네릭과 와일드카드      |  전민규 / [황시아](https://velog.io/@miro7923/JAVA-%EC%A0%9C%EB%84%A4%EB%A6%ADGenerics%EA%B3%BC-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9CWildcard)   |
 |  3  | 트랜잭션 격리 수준, JPA Lock | [강민주](https://github.com/kkangmj/db-isolation-and-lock) / [정지은](https://bejewled-sprout-4d3.notion.site/JPA-Lock-24ac8dc7df6d4250aa4d194240a6d24e) |
 |  4  |          SOLID 원칙          |                           [노영진 / 최지혜](https://spotty-nation-a51.notion.site/OOP-SOLID-08d20af59d8a4e62aef826362c69043b)                            |
+
+### 4주차
+
+- 일자: 2022.12.01
+
+| NO  |             주제             |                                                                    발표자 & 발표자료                                                                     |
+| :-: | :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  | 자료구조            |            최지혜 /  [이시안](https://chicori3.github.io/cs/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)                                    |
+|  2  |      TDD    |  [황시아](https://velog.io/@miro7923/TDD-Test-Driven-Development%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C) / [정지은](https://bejewled-sprout-4d3.notion.site/TDD-Test-Driven-Development-7465aa749f324c6d99a38fdb8afda612)    |
+|  3  | Java 멀티스레드 동기화| [김 건](https://blog.naver.com/harrison1995/222941723173) / [강민주](https://velog.io/@mangoo/java-thread-safety) |
+|  4  |    디자인 패턴 - 싱글톤, 팩토리 메소드              |                                        [노영진](https://lateral-twilight-7e1.notion.site/c702afcaa338480c927829786b50b456) / [전민규](https://velog.io/@16min99/%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4-Factory-method)             |

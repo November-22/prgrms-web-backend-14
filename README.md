@@ -64,9 +64,20 @@
 
 - 일자: 2022.12.01
 
-| NO  |             주제             |                                                                    발표자 & 발표자료                                                                     |
-| :-: | :--------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  1  | 자료구조            |            최지혜 /  [이시안](https://chicori3.github.io/cs/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)                                    |
-|  2  |      TDD    |  [황시아](https://velog.io/@miro7923/TDD-Test-Driven-Development%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C) / [정지은](https://bejewled-sprout-4d3.notion.site/TDD-Test-Driven-Development-7465aa749f324c6d99a38fdb8afda612)    |
-|  3  | Java 멀티스레드 동기화| [김 건](https://blog.naver.com/harrison1995/222941723173) / [강민주](https://velog.io/@mangoo/java-thread-safety) |
-|  4  |    디자인 패턴 - 싱글톤, 팩토리 메소드              |                                        [노영진](https://lateral-twilight-7e1.notion.site/c702afcaa338480c927829786b50b456) / [전민규](https://velog.io/@16min99/%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4-Factory-method)             |
+| NO  |                주제                 |                                                                                                                 발표자 & 발표자료                                                                                                                  |
+| :-: | :---------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |              자료구조               |                                          [최지혜](https://spotty-nation-a51.notion.site/83183f20e1274f578c7fbd4415ae86b7) / [이시안](https://chicori3.github.io/cs/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)                                          |
+|  2  |                 TDD                 | [황시아](https://velog.io/@miro7923/TDD-Test-Driven-Development%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C) / [정지은](https://bejewled-sprout-4d3.notion.site/TDD-Test-Driven-Development-7465aa749f324c6d99a38fdb8afda612) |
+|  3  |       Java 멀티스레드 동기화        |                                                                 [김 건](https://blog.naver.com/harrison1995/222941723173) / [강민주](https://velog.io/@mangoo/java-thread-safety)                                                                  |
+|  4  | 디자인 패턴 - 싱글톤, 팩토리 메소드 |                [노영진](https://lateral-twilight-7e1.notion.site/c702afcaa338480c927829786b50b456) / [전민규](https://velog.io/@16min99/%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4-Factory-method)                 |
+
+### 5주차
+
+- 일자: 2022.12.08
+
+| NO  |              주제               |                                                                                                                              발표자 & 발표자료                                                                                                                              |
+| :-: | :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |  이펙티브 자바 - 아이템 78, 79  |                                                                                                 [강민주](https://velog.io/@mangoo/Effective-Java-3E-1-Item-78-79) / 전민규                                                                                                  |
+|  2  |          람다와 스트림          | [황시아](https://velog.io/@miro7923/JAVA-%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%8A%A4%ED%8A%B8%EB%A6%BCLambda-Stream) / <a href="https://docs.google.com/viewer?url=https://github.com/November-22/prgrms-web-backend-14/files/10194421/java.lambda.pdf" target="_blank">김 건</a> |
+|  3  |            아키텍처             |                                                                                          [최지혜 / 이시안](https://spotty-nation-a51.notion.site/d1f348a18d82423faeb3dd9d015d6b34)                                                                                          |
+|  4  | 디자인 패턴 - 빌더, 추상 팩토리 |                                                  [정지은](https://bejewled-sprout-4d3.notion.site/e1ee96aecd8040dbb03a380cfbae8175) / [노영진](https://lateral-twilight-7e1.notion.site/5e7fe84a798540619230f07b720bc23e)                                                   |

@@ -81,3 +81,14 @@
 |  2  |          람다와 스트림          | [황시아](https://velog.io/@miro7923/JAVA-%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%8A%A4%ED%8A%B8%EB%A6%BCLambda-Stream) / <a href="https://docs.google.com/viewer?url=https://github.com/November-22/prgrms-web-backend-14/files/10194421/java.lambda.pdf" target="_blank">김 건</a> |
 |  3  |            아키텍처             |                                                                                          [최지혜 / 이시안](https://spotty-nation-a51.notion.site/d1f348a18d82423faeb3dd9d015d6b34)                                                                                          |
 |  4  | 디자인 패턴 - 빌더, 추상 팩토리 |                                                  [정지은](https://bejewled-sprout-4d3.notion.site/e1ee96aecd8040dbb03a380cfbae8175) / [노영진](https://lateral-twilight-7e1.notion.site/5e7fe84a798540619230f07b720bc23e)                                                   |
+
+### 6주차
+
+- 일자: 2022.12.15
+
+| NO  |             주제             |                                                                                                                        발표자 & 발표자료                                                                                                                        |
+| :-: | :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |        해시와 HashMap        |                                                               [최지혜](https://spotty-nation-a51.notion.site/b404691d681848579fddfb36796aeaef) / [강민주](https://velog.io/@mangoo/java-hashmap)                                                                |
+|  2  |          스프링 빈           | [이시안](https://chicori3.github.io/spring/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EA%B3%BC-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/) / [정지은](https://bejewled-sprout-4d3.notion.site/Bean-afaa4fce5d0e47af94dac0639dc19815) |
+|  3  |         MongoDB 샤딩         |                                                                                                                             전민규                                                                                                                              |
+|  4  | 디자인 패턴 - 어댑터, 프록시 |                                                                                   김 건 / [노영진](https://lateral-twilight-7e1.notion.site/076c035352e44f8582bf8485532ec745)                                                                                   |

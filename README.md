@@ -101,4 +101,4 @@
 | :-: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 |  1  |                 인덱스                  |    [정지은](https://bejewled-sprout-4d3.notion.site/_DB-e29e6de9fcfd45dbb3a2132a01fded35) / 노영진    |
 |  2  | 그래프 알고리즘 - 다익스트라, 벨만 포드 |         [강민주](https://nettle-yellowhorn-6b9.notion.site/0ea8a4f12b59407dbc467731f75e632e)          |
-|  3  |                 JUnit5와 Mockito                  | [이시안](https://chicori3.github.io/spring/test/JUnit5-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0/) / 김 건 |
+|  3  |                 JUnit5와 Mockito                  | [이시안](https://chicori3.github.io/spring/test/JUnit5-%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0/) / [김 건](https://blog.naver.com/harrison1995/222969511569) |

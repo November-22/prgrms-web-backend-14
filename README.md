@@ -112,6 +112,6 @@
 
 | NO  |                  주제                   |                                           발표자 & 발표자료                                           |
 | :-: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|  1  | CI(Continuous Integration) |    김건    |
+|  1  | CI(Continuous Integration) |    [김건](https://blog.naver.com/harrison1995/222981389170)    |
 |  2  | Github Action |  [이시안](https://chicori3.github.io/%EC%82%BD%EC%A7%88/Github-Action-%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/) |
 

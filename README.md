@@ -128,6 +128,6 @@
 
 | NO  |                  주제                   |                                           발표자 & 발표자료                                           |
 | :-: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------: |
-|  1  | about Test Code  |   [전민규]([https://lateral-twilight-7e1.notion.site/DB-Join-d6989b9de4e645859faa4d13f1d98722](https://sodamwon.notion.site/2c51a067dfa549d88d8e97af67650b45))  |
-|  2  | RESTful API | [정지은]([https://spotty-nation-a51.notion.site/Spring-Batch-7af4d9e62e4c4671a604a088fd24637f](https://bejewled-sprout-4d3.notion.site/_RESTful-API-e8a262a7c5dc48dcb4008917f23c0b1a)) |
+|  1  | Test Code |   [전민규](https://sodamwon.notion.site/2c51a067dfa549d88d8e97af67650b45) |
+|  2  | RESTful API | [정지은](https://bejewled-sprout-4d3.notion.site/_RESTful-API-e8a262a7c5dc48dcb4008917f23c0b1a) |
 |  3  | 네트워크 | [강민주]() |

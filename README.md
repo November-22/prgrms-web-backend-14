@@ -131,3 +131,11 @@
 |  1  | Test Code |   [전민규](https://sodamwon.notion.site/2c51a067dfa549d88d8e97af67650b45) |
 |  2  | RESTful API | [정지은](https://bejewled-sprout-4d3.notion.site/_RESTful-API-e8a262a7c5dc48dcb4008917f23c0b1a) |
 |  3  | 네트워크 | [강민주]() |
+
+### 11주차
+
+- 일자: 2023.01.26
+
+| NO  |                  주제                   |                                           발표자 & 발표자료                                           |
+| :-: | :-------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+|  1  | TDD |   [김건](https://docs.google.com/presentation/d/13IWq3C-Pmf9xx9vj88gIU4gnuTFkFoz3/edit?usp=sharing&ouid=101177928260409286799&rtpof=true&sd=true) |
